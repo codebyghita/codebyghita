@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there 👋, I'm Ghita Essafi
 
-<!--
-**codebyghita/codebyghita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer** | ISTA Marrakech  
+I build **web and desktop applications** while continuously improving my coding skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+**Languages:**  
+Python, JavaScript, PHP, HTML, CSS, Bootstrap  
+
+**Frameworks & Libraries:**  
+Laravel (learning), Node.js (learning), PyQt5, Tkinter  
+
+**Database:**  
+MySQL  
+
+**Tools:**  
+Git, GitHub, VS Code  
+
+---
+
+## 🚀 Featured Projects
+
+### [Hotel Reservation App](https://github.com/codebyghita/hotel-reservation-php)  
+A full hotel reservation system built with PHP and MySQL. Features include booking, search, and management.
+
+### [Mood Tracker](https://github.com/codebyghita/mood-tracker)  
+A web application to track daily moods and emotions. Frontend built with HTML, CSS, and JavaScript.
+
+---
+
+## 📫 Connect with me
+- [GitHub](https://github.com/codebyghita)  
+- [LinkedIn](#) www.linkedin.com/in/ghitaessafi
+  
+
+---
+
+✨ I’m continuously learning and exploring new technologies to become a professional software engineer.
+
