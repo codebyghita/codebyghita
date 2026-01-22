@@ -11,13 +11,13 @@ I build **web and desktop applications** while continuously improving my coding 
 Python, JavaScript, PHP, HTML, CSS, Bootstrap  
 
 **Frameworks & Libraries:**  
-Laravel (learning), Node.js (learning), PyQt5, Tkinter  
+Laravel , react ,tailwind, PyQt5, Tkinter  
 
 **Database:**  
-MySQL  
+MySQL ,Mongodb 
 
 **Tools:**  
-Git, GitHub, VS Code  
+Git, GitHub, VS Code ,sonarqube,sonarScanner,gitlab
 
 ---
 
